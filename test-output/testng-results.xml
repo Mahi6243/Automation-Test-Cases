@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-12T11:26:13 IST" name="Default suite" finished-at="2025-05-12T11:26:20 IST" duration-ms="7072">
+    <groups>
+    </groups>
+    <test started-at="2025-05-12T11:26:13 IST" name="Default test" finished-at="2025-05-12T11:26:20 IST" duration-ms="7072">
+      <class name="org.Sam.FooterResponsiveTestNG">
+        <test-method is-config="true" signature="setup()[pri:0, instance:org.Sam.FooterResponsiveTestNG@55740540]" started-at="2025-05-12T11:26:13 IST" name="setup" finished-at="2025-05-12T11:26:15 IST" duration-ms="1661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_158_verifyFooterOnDesktop()[pri:1, instance:org.Sam.FooterResponsiveTestNG@55740540]" started-at="2025-05-12T11:26:15 IST" name="TC_158_verifyFooterOnDesktop" finished-at="2025-05-12T11:26:18 IST" duration-ms="3646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_158_verifyFooterOnDesktop -->
+        <test-method signature="TC_159_verifyFooterOnTablet()[pri:2, instance:org.Sam.FooterResponsiveTestNG@55740540]" started-at="2025-05-12T11:26:18 IST" name="TC_159_verifyFooterOnTablet" finished-at="2025-05-12T11:26:19 IST" duration-ms="914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_159_verifyFooterOnTablet -->
+        <test-method signature="TC_160_verifyFooterOnMobile()[pri:3, instance:org.Sam.FooterResponsiveTestNG@55740540]" started-at="2025-05-12T11:26:19 IST" name="TC_160_verifyFooterOnMobile" finished-at="2025-05-12T11:26:20 IST" duration-ms="594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_160_verifyFooterOnMobile -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.Sam.FooterResponsiveTestNG@55740540]" started-at="2025-05-12T11:26:20 IST" name="tearDown" finished-at="2025-05-12T11:26:20 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.Sam.FooterResponsiveTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

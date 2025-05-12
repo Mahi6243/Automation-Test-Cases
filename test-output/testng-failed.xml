@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="org.Sam.FooterContactTestNG">
+        <methods>
+          <include name="TC_148_verifyEmailPresence"/>
+          <include name="TC_150_verifyEmailLinkFunctionality"/>
+          <include name="TC_151_verifyPhoneLinkFunctionality"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- org.Sam.FooterContactTestNG -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
